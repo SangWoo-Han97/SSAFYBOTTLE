@@ -77,7 +77,7 @@ const val DISTANCE = "distance"
 /**
  BootPay
  */
-const val BOOTPAY_APPLICATION_ID = "628c6ae2e38c300020ad1eef"
+const val BOOTPAY_APPLICATION_ID = ""
 
 /**
  Status
